@@ -21,25 +21,20 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [{
-		artist: "love u <3",
+		artist: "yêu em 3000",
 		name: "nơi này có anh",
 		url: "Musics/bai2.mp3",
 		picture: "https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-1/79891556_2550615918598442_765023629212647424_o.jpg?_nc_cat=101&_nc_ohc=cHYBJkXnJ-kAX_yiMa-&_nc_ht=scontent.fhan2-1.fna&oh=0692b636301258859968ac642f1b1366&oe=5ECF46C1"
 	},{
-    artist: "love u <3",
+    artist: "yêu em 3000",
     name: "so for far",
     url: "Musics/bai3.mp3",
     picture: "Background/anh2.jpg"
 },{
-    artist: "love u <3",
+    artist: "yêu em 3000",
     name: "yes i do",
     url: "Musics/bai1.mp3",
     picture: "Background/anh3.jpg"
-},{
-    artist: "love u <3",
-    name: "i do",
-    url: "Musics/love.mp3",
-    picture: "Background/anh4.jpg"
 }];
 
 	
