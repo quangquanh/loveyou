@@ -40,12 +40,12 @@ $(function()
     name: "có em chờ",
     url: "Musics/bai4.mp3",
     picture: "Background/anh3.jpg"
-}];,{
+},{
     artist: "yêu em 3000",
     name: "be with you",
     url: "Musics/bai5.mp3",
     picture: "Background/anh3.jpg"
-}];,{
+},{
     artist: "yêu em 3000",
     name: "perfect",
     url: "Musics/bai6.mp3",
